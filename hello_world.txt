@@ -1,1 +1,3 @@
 ECHO is on.
+my first github repo!
+hello odin!
